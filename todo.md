@@ -5,6 +5,7 @@
 git status
 git add--all
 git commit -m "**\***"
+git push
 
 1. Make plan
 2. Design

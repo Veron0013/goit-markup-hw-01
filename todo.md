@@ -6,7 +6,7 @@ git clone *ssh_github*
 
 git status
 git add --all
-git commit -m "**\***"
+git commit -m "text_1"
 git push
 
 1. Make plan

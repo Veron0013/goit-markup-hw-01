@@ -1,9 +1,11 @@
 # List ToDo
 
 ==========git tips=============
+git clone *ssh_github*
+
 
 git status
-git add--all
+git add --all
 git commit -m "**\***"
 git push
 
